@@ -1,4 +1,4 @@
-# farissham/shared_sumstats
+
 
 Shared, multi-contributor Nextflow / nf-core-style pipeline for descriptive
 analysis of GWAS summary statistics. Ported from `bernooi/sumstats`.
@@ -6,14 +6,6 @@ analysis of GWAS summary statistics. Ported from `bernooi/sumstats`.
 **Design:** `docs/superpowers/specs/2026-06-03-shared-sumstats-design.md`
 **Phase 1 plan:** `docs/superpowers/plans/2026-06-03-shared-sumstats-phase1-foundation.md`
 
-## Status
-
-- [x] Phase 1: scaffold + HARMONISE layer (gwas-ssf) -> harmonised hub
-- [x] Phase 2: harmonise paths — gwas-ssf, gwama, hail, cvdkp (unified `bin/harmonise.R`)
-- [ ] Phase 3: SBayesRC module
-- [ ] Phase 4: LDSC module
-- [ ] Phase 5: report assembler (fragments)
-- [ ] Phase 6: contribution scaffolding + CI
 
 ## Quick test (Phase 1)
 
